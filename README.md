@@ -1,4 +1,3 @@
-# I'm David Labett
 ```css
 #davidlabett {
   position: absolute;
