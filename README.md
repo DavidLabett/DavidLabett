@@ -5,7 +5,6 @@
   location: Sweden;
   height: 180cm;
   width: fit-content;
-  display: inline-flex;
   background: Tinkerer 🔨;
   color: ghostwhite;
   animation: debug-forever infinite;
