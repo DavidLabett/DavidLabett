@@ -29,8 +29,8 @@ I'm a **Fullstack Software Developer** with a focus on **AI**, currently studyin
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ### 📌 Projects
-🔹 **[CRM](#https://github.com/DavidLabett/CRM)** - CRM Platform bridging the gap between Customers, Forms and Support Agents..  
+🔹 **[CRM](https://github.com/DavidLabett/CRM)** - CRM Platform bridging the gap between Customers, Forms, and Support Agents.  
 
 ### 📫 Get in Touch
-- 🔗 [LinkedIn](#https://www.linkedin.com/in/david-labett-736508325/)
-- 📧 [Email](mailto:david.labett@gmail.com) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/david-labett-736508325/)
+- 📧 [Email](mailto:david.labett@gmail.com)
