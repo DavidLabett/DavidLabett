@@ -33,7 +33,7 @@ I'm a **Fullstack Software Developer** with a focus on **AI**, currently studyin
 
 🔹 **[TypefaceDev](https://github.com/DavidLabett/TypefaceDev)** - A small jQuery-powered font preview and purchasing site designed for developers.
  
-🔹 **[PaletteSnipper](https://github.com/DavidLabett/PaletteSnipper)** - [WIP] A desktop tool built with Python using ML-clustering to quickly extract color palettes from a captured screen-region.
+🔹 **[PaletteSnipper](https://github.com/DavidLabett/PaletteSnipper)** - A desktop tool built with Python using ML-clustering to quickly extract color palettes from a captured screen-region.
 
 ### 📫 Get in Touch
 - 🔗 [LinkedIn](https://www.linkedin.com/in/david-labett-736508325/)
