@@ -29,7 +29,9 @@ I'm a **Fullstack Software Developer** with a focus on **AI**, currently studyin
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
 
 ### 📌 Projects
-🔹 **[CRM](https://github.com/DavidLabett/CRM)** - CRM Platform bridging the gap between Customers, Forms, and Support Agents. 
+🔹 **[AI RAG-CLI](https://github.com/DavidLabett/RAG-CLI-Tool)** - CLI tool for managing local AI RAG database with document sync, query & interactive RAG chat using Ollama and KernelMemory.
+
+🔹 **[CRM](https://github.com/DavidLabett/CRM)** - (School project) CRM Platform bridging the gap between Customers, Forms, and Support Agents. 
 
 🔹 **[TypefaceDev](https://github.com/DavidLabett/TypefaceDev)** - A small jQuery-powered font preview and purchasing site designed for developers.
  
