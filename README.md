@@ -14,12 +14,12 @@
   100% { frustration: 0%; code-quality: 200%; }
 }
 ```
-I'm a **Fullstack Software Developer** with a focus on **AI**, currently studying at **NBI Handelsakademin** in Malmö. 
+I'm a **Fullstack Software Developer** with a focus on **AI**, currently doing my internship at **InfoMentor LMS** in Kristianstad. 
 <br>With a background in design, I have a strong understanding of the entire creative process, from **planning and requirements analysis to design and development**.
 
 ### ☕ About Me
-- 🎓 Studying **Fullstack Development with an AI-focus**
-- 🔍 Looking for a **LIA internship** (Oct 13 – Dec 19, 2025)
+- 🎓 **Fullstack Development with an AI-focus**
+- 🔍 Currently a Software Developer intern at InfoMentor LMS
 - 🎨 Background in **design & user experience**
 - 💡 Passionate about **AI, problem-solving and a holistic approach to anything I do**
 
