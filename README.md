@@ -19,7 +19,7 @@ I'm a **Fullstack Software Developer** with a focus on **AI**, currently doing m
 
 ### ☕ About Me
 - 🎓 **Fullstack Development with an AI-focus**
-- 🔍 Currently a Software Developer intern at InfoMentor LMS
+- 🔍 Currently a Software Developer at InfoMentor LMS
 - 🎨 Background in **design & user experience**
 - 💡 Passionate about **AI, problem-solving and a holistic approach to anything I do**
 
