@@ -31,6 +31,8 @@ I'm a **Fullstack Software Developer** with a focus on **AI**.
 ### 📌 Projects
 🔹 **[AI RAG-CLI](https://github.com/DavidLabett/RAG-CLI-Tool)** - CLI tool for AI RAG with document sync/embed, query & interactive RAG-DB-chat
 
+🔹 **[<span/>](https://github.com/DavidLabett/span)** - Infinite canvas for spatial idea exploration - written in Electron. 
+
 🔹 **[CRM](https://github.com/DavidLabett/CRM)** - (School project) CRM Platform bridging the gap between Customers, Forms, and Support Agents. 
 
 🔹 **[TypefaceDev](https://github.com/DavidLabett/TypefaceDev)** - (POC) jQuery-powered font preview and purchasing site designed for developers.
