@@ -14,7 +14,7 @@
   100% { frustration: 0%; code-quality: 200%; }
 }
 ```
-I'm a **Fullstack Software Developer** with a focus on **AI**, currently doing my internship at **InfoMentor LMS** in Kristianstad. 
+I'm a **Fullstack Software Developer** with a focus on **AI**. 
 <br>With a background in design, I have a strong understanding of the entire creative process, from **planning and requirements analysis to design and development**.
 
 ### ☕ About Me
